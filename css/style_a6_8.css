@@ -1,0 +1,17 @@
+.row{
+    min-height: 50px;
+    align-items: center;
+}
+
+.col:first-child {
+  background: #ffed6f;
+}
+.col:nth-child(2) {
+  background: #ccebc5;
+}
+.col:nth-child(3) {
+  background: #bc80bd;
+}
+button{
+    width: 100%;
+}
